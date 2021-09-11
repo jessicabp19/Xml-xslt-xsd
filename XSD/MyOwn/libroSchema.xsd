@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name="Libro">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Título" type="xs:string"></xs:element>
+                <xs:element name="Autores" type="xs:string" maxOccurs="10"></xs:element>
+                <xs:element name="Editorial" type="xs:string"></xs:element>
+            </xs:sequence>
+            <xs:attribute name="precio" type="xs:double"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

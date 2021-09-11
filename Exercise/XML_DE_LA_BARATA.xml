@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslTransformation.xsl"?>
+<dte:GTDocumento Version="0.1" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dte:SAT ClaseDocumento="dte">
+        <dte:DTE ID="DatosCertificados">
+            <dte:DatosEmision ID="DatosEmision">
+                <dte:DatosGenerales Tipo="FACT" FechaHoraEmision="2021-04-30T19:01:37-06:00"
+                    CodigoMoneda="GTQ"/>
+                <dte:Emisor NITEmisor="91324963" NombreEmisor="Grupo Simply, S.A."
+                    CodigoEstablecimiento="12" NombreComercial="La Barata Tecolote"
+                    AfiliacionIVA="GEN">
+                    <dte:DireccionEmisor>
+                        <dte:Direccion>Calzada San Juan 16-50 Zona 4, Mixco,
+                            Guatemala</dte:Direccion>
+                        <dte:CodigoPostal>01057</dte:CodigoPostal>
+                        <dte:Municipio>MIXCO</dte:Municipio>
+                        <dte:Departamento>GUATEMALA</dte:Departamento>
+                        <dte:Pais>GT</dte:Pais>
+                    </dte:DireccionEmisor>
+                </dte:Emisor>
+                <dte:Receptor NombreReceptor="MONICA XOCOY" IDReceptor="82654190">
+                    <dte:DireccionReceptor>
+                        <dte:Direccion>Ciudad.</dte:Direccion>
+                        <dte:CodigoPostal>01057</dte:CodigoPostal>
+                        <dte:Municipio>MIXCO</dte:Municipio>
+                        <dte:Departamento>GUATEMALA</dte:Departamento>
+                        <dte:Pais>GT</dte:Pais>
+                    </dte:DireccionReceptor>
+                </dte:Receptor>
+                <dte:Frases>
+                    <dte:Frase TipoFrase="1" CodigoEscenario="1"/>
+                </dte:Frases>
+                <dte:Items>
+                    <dte:Item NumeroLinea="1" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>PREMIER SALCHICHA COCIDA Y AHUMADA 54 UNIDADES
+                            PAQUETE</dte:Descripcion>
+                        <dte:PrecioUnitario>25.95</dte:PrecioUnitario>
+                        <dte:Precio>25.95</dte:Precio>
+                        <dte:Descuento>4.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>19.59821429</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.351785714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>21.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="2" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>YES COOL YOGURT BANANO FRESA 690 GRAMOS SIX
+                            PACK</dte:Descripcion>
+                        <dte:PrecioUnitario>12.25</dte:PrecioUnitario>
+                        <dte:Precio>12.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>10.9375</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.3125</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>12.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="3" BienOServicio="B">
+                        <dte:Cantidad>0.8829</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>TOLEDO JAMON D/PAVO LIBRA A GRANEL</dte:Descripcion>
+                        <dte:PrecioUnitario>14.95073055</dte:PrecioUnitario>
+                        <dte:Precio>13.20</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>11.78571429</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.414285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>13.20</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="4" BienOServicio="B">
+                        <dte:Cantidad>0.8688</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>PERRY JAMON CHAPIN LIBRA A GRANEL</dte:Descripcion>
+                        <dte:PrecioUnitario>21.94981584</dte:PrecioUnitario>
+                        <dte:Precio>19.07</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>17.02678571</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.043214286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>19.07</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="5" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>TOLEDO LONGANIZA CRIOLLA 230 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>10.90</dte:PrecioUnitario>
+                        <dte:Precio>10.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>9.732142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.167857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>10.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="6" BienOServicio="B">
+                        <dte:Cantidad>1.9582</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>BOLOVIQUE</dte:Descripcion>
+                        <dte:PrecioUnitario>27.49974466</dte:PrecioUnitario>
+                        <dte:Precio>53.85</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>48.08035714</dte:MontoGravable>
+                                <dte:MontoImpuesto>5.769642857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>53.85</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="7" BienOServicio="B">
+                        <dte:Cantidad>2.8621</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>POLLO REY POLLO C/MENUDOS LIBRA A GRANEL</dte:Descripcion>
+                        <dte:PrecioUnitario>12.39998602</dte:PrecioUnitario>
+                        <dte:Precio>35.49</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>31.6875</dte:MontoGravable>
+                                <dte:MontoImpuesto>3.8025</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>35.49</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="8" BienOServicio="B">
+                        <dte:Cantidad>1.0315</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>MOLIDA FINA</dte:Descripcion>
+                        <dte:PrecioUnitario>26.95104217</dte:PrecioUnitario>
+                        <dte:Precio>27.80</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>24.82142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.978571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>27.80</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="9" BienOServicio="B">
+                        <dte:Cantidad>1.551</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>MOLIDA FINA</dte:Descripcion>
+                        <dte:PrecioUnitario>26.95035461</dte:PrecioUnitario>
+                        <dte:Precio>41.80</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>37.32142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>4.478571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>41.80</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="10" BienOServicio="B">
+                        <dte:Cantidad>1.4763</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>VILLA CAMPO FILETE PECHUGA D/POLLO LIBRA A
+                            GRANEL</dte:Descripcion>
+                        <dte:PrecioUnitario>17.95028111</dte:PrecioUnitario>
+                        <dte:Precio>26.50</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>23.66071429</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.839285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>26.50</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="11" BienOServicio="B">
+                        <dte:Cantidad>1.1218</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>HUESO MIXTO </dte:Descripcion>
+                        <dte:PrecioUnitario>5.500089142</dte:PrecioUnitario>
+                        <dte:Precio>6.17</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.508928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6610714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.17</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="12" BienOServicio="B">
+                        <dte:Cantidad>1.6502</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>VILLA CAMPO COSTILLA D/CERDO LIBRA A
+                            GRANEL</dte:Descripcion>
+                        <dte:PrecioUnitario>14.94970307</dte:PrecioUnitario>
+                        <dte:Precio>24.67</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>22.02678571</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.643214286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>24.67</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="13" BienOServicio="B">
+                        <dte:Cantidad>1.1769</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>POLLO AHUMADO DUQUE LIBRA </dte:Descripcion>
+                        <dte:PrecioUnitario>19.95071799</dte:PrecioUnitario>
+                        <dte:Precio>23.48</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>20.96428571</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.515714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>23.48</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="14" BienOServicio="B">
+                        <dte:Cantidad>1.4851</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>MANITA</dte:Descripcion>
+                        <dte:PrecioUnitario>27.49983166</dte:PrecioUnitario>
+                        <dte:Precio>40.84</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>36.46428571</dte:MontoGravable>
+                                <dte:MontoImpuesto>4.375714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>40.84</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="15" BienOServicio="B">
+                        <dte:Cantidad>1.0558</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CA?????A</dte:Descripcion>
+                        <dte:PrecioUnitario>26.50123129</dte:PrecioUnitario>
+                        <dte:Precio>27.98</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>24.98214286</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.997857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>27.98</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="16" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>MAZOLA MARGARINA BARRA 400 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>7.75</dte:PrecioUnitario>
+                        <dte:Precio>7.75</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>6.919642857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8303571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>7.75</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="17" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>GAYMONTS YOGURT MIX HIGO 125 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>6.50</dte:PrecioUnitario>
+                        <dte:Precio>6.50</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.803571429</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6964285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.50</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="18" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>PREMIER QUESO TIPO AMERICANO 170 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>10.25</dte:PrecioUnitario>
+                        <dte:Precio>10.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>9.151785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.098214286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>10.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="19" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>VILLA CAMPO ACEITE VEGETAL 850ML</dte:Descripcion>
+                        <dte:PrecioUnitario>12.95</dte:PrecioUnitario>
+                        <dte:Precio>12.95</dte:Precio>
+                        <dte:Descuento>0.20</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>11.38392857</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.366071429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>12.75</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="20" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LOS ARCOS CAFE MOLIDO 400 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>18.75</dte:PrecioUnitario>
+                        <dte:Precio>18.75</dte:Precio>
+                        <dte:Descuento>3.35</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>13.75</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.65</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>15.40</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="21" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>PATE TOLEDO 115G</dte:Descripcion>
+                        <dte:PrecioUnitario>5.50</dte:PrecioUnitario>
+                        <dte:Precio>5.50</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>4.910714286</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.5892857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>5.50</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="22" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>NECTAR DEL MONTE 330ML. PERA</dte:Descripcion>
+                        <dte:PrecioUnitario>3.15</dte:PrecioUnitario>
+                        <dte:Precio>3.15</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.8125</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3375</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.15</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="23" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>JUGO DEL MONTE SLIM 330 ML PI??A</dte:Descripcion>
+                        <dte:PrecioUnitario>3.15</dte:PrecioUnitario>
+                        <dte:Precio>3.15</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.8125</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3375</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.15</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="24" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>INA CHAO MEIN S/SOYA 180 GRS.</dte:Descripcion>
+                        <dte:PrecioUnitario>4.00</dte:PrecioUnitario>
+                        <dte:Precio>4.00</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>3.571428571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.4285714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>4.00</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="25" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>OK AVENA MOSH AGRANEL 340 GRAMOS SIN
+                            MARCA</dte:Descripcion>
+                        <dte:PrecioUnitario>4.00</dte:PrecioUnitario>
+                        <dte:Precio>4.00</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>3.571428571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.4285714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>4.00</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="26" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>KERNS PASTA DE TOMATE LATA 6 ONZAS</dte:Descripcion>
+                        <dte:PrecioUnitario>7.90</dte:PrecioUnitario>
+                        <dte:Precio>7.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.053571429</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8464285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>7.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="27" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>GAVIOTA ATUN TROCITOS C/VEGETALES 140
+                            GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>8.25</dte:PrecioUnitario>
+                        <dte:Precio>8.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.366071429</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8839285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>8.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="28" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>ORAL-B CREMA DENTAL COMPLETE 80 GRAMOS SUAVE 4 EN
+                            1</dte:Descripcion>
+                        <dte:PrecioUnitario>6.95</dte:PrecioUnitario>
+                        <dte:Precio>6.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>6.205357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.7446428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="29" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SALSITA REGIA CON QUESO 100 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.85</dte:PrecioUnitario>
+                        <dte:Precio>1.85</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.651785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1982142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.85</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="30" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SALSITA REGIA CON QUESO 100 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.85</dte:PrecioUnitario>
+                        <dte:Precio>1.85</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.651785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1982142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.85</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="31" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>REGIA PASTA TOMATE 100 GRAMOS DOY PACK</dte:Descripcion>
+                        <dte:PrecioUnitario>2.75</dte:PrecioUnitario>
+                        <dte:Precio>2.75</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.455357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.2946428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.75</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="32" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>JUGO DEL MONTE MANZANA TETRA 330 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>3.15</dte:PrecioUnitario>
+                        <dte:Precio>3.15</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.8125</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3375</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.15</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="33" BienOServicio="B">
+                        <dte:Cantidad>3</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SALSITA REGIA RANCHERA 100 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.85</dte:PrecioUnitario>
+                        <dte:Precio>5.55</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>4.955357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.5946428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>5.55</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="34" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>TORTIAMIGOS TORTILLA HARINA 10 UNIDADES GRANDE 650
+                            GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>11.90</dte:PrecioUnitario>
+                        <dte:Precio>11.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>10.625</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.275</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>11.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="35" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>DON PACHECO JARABE MAPLE 330 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>8.90</dte:PrecioUnitario>
+                        <dte:Precio>8.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.946428571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.9535714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>8.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="36" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CA??A AZUCAR MORENA 2000 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>12.95</dte:PrecioUnitario>
+                        <dte:Precio>12.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>11.5625</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.3875</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>12.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="37" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CA??A AZUCAR MORENA 2000 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>12.95</dte:PrecioUnitario>
+                        <dte:Precio>12.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>11.5625</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.3875</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>12.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="38" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CA??A AZUCAR MORENA 2000 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>12.95</dte:PrecioUnitario>
+                        <dte:Precio>12.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>11.5625</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.3875</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>12.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="39" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LOS ARCOS CAFE MOLIDO 400 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>18.75</dte:PrecioUnitario>
+                        <dte:Precio>18.75</dte:Precio>
+                        <dte:Descuento>3.35</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>13.75</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.65</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>15.40</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="40" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>NESCAFE SOBRE 8 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.90</dte:PrecioUnitario>
+                        <dte:Precio>1.90</dte:Precio>
+                        <dte:Descuento>0.10</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.607142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1928571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.80</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="41" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>NESCAFE SOBRE 8 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.90</dte:PrecioUnitario>
+                        <dte:Precio>1.90</dte:Precio>
+                        <dte:Descuento>0.10</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.607142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1928571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.80</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="42" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CORA PASTA SPAGHETI</dte:Descripcion>
+                        <dte:PrecioUnitario>2.10</dte:PrecioUnitario>
+                        <dte:Precio>2.10</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.875</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.225</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.10</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="43" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CORA PASTA SPAGHETI</dte:Descripcion>
+                        <dte:PrecioUnitario>2.10</dte:PrecioUnitario>
+                        <dte:Precio>2.10</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.875</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.225</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.10</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="44" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CONSOME MALHER POLLO 6/1</dte:Descripcion>
+                        <dte:PrecioUnitario>5.75</dte:PrecioUnitario>
+                        <dte:Precio>5.75</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.133928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6160714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>5.75</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="45" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>DUCAL FRIJOL NEGRO 14 ONZAS DOYPACK</dte:Descripcion>
+                        <dte:PrecioUnitario>7.95</dte:PrecioUnitario>
+                        <dte:Precio>7.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.098214286</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8517857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>7.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="46" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>FOREMOST LECHE ENTERA 946 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>10.45</dte:PrecioUnitario>
+                        <dte:Precio>10.45</dte:Precio>
+                        <dte:Descuento>0.50</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>8.883928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.066071429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>9.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="47" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LA PRATERIA CHAMPI??ONES ENTERO 184 GRAMOS
+                            LATA</dte:Descripcion>
+                        <dte:PrecioUnitario>7.95</dte:PrecioUnitario>
+                        <dte:Precio>7.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.098214286</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8517857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>7.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="48" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>POLLO REY ALAS C/BARBACOA 400 GRAMOS CAJA</dte:Descripcion>
+                        <dte:PrecioUnitario>26.40</dte:PrecioUnitario>
+                        <dte:Precio>26.40</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>23.57142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.828571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>26.40</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="49" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>NESCAFE SOBRE 8 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>1.90</dte:PrecioUnitario>
+                        <dte:Precio>1.90</dte:Precio>
+                        <dte:Descuento>0.10</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.607142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1928571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.80</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="50" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>FOREMOST LECHE ENTERA 946 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>10.45</dte:PrecioUnitario>
+                        <dte:Precio>10.45</dte:Precio>
+                        <dte:Descuento>0.50</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>8.883928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.066071429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>9.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="51" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>FOREMOST LECHE ENTERA 946 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>10.45</dte:PrecioUnitario>
+                        <dte:Precio>10.45</dte:Precio>
+                        <dte:Descuento>0.50</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>8.883928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.066071429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>9.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="52" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CAMPERO SALSA PICANTE 101 GRAMOS 3 ONZAS</dte:Descripcion>
+                        <dte:PrecioUnitario>2.90</dte:PrecioUnitario>
+                        <dte:Precio>2.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.589285714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3107142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="53" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>AGUA PURA CIELO 375 ML</dte:Descripcion>
+                        <dte:PrecioUnitario>1.00</dte:PrecioUnitario>
+                        <dte:Precio>1.00</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>0.8928571429</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1071428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.00</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="54" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CHOCODOGGY PAN 5 UNIDADES 250 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>11.55</dte:PrecioUnitario>
+                        <dte:Precio>11.55</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>10.3125</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.2375</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>11.55</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="55" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>EUROPA PAN SANDWICH SEMILLAS Y CEREALES 670
+                            GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>22.25</dte:PrecioUnitario>
+                        <dte:Precio>22.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>19.86607143</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.383928571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>22.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="56" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SOPA C/FIDEOS MALHER SOBRE</dte:Descripcion>
+                        <dte:PrecioUnitario>2.20</dte:PrecioUnitario>
+                        <dte:Precio>2.20</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.964285714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.2357142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.20</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="57" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SOPA C/FIDEOS MALHER SOBRE</dte:Descripcion>
+                        <dte:PrecioUnitario>2.20</dte:PrecioUnitario>
+                        <dte:Precio>2.20</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.964285714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.2357142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.20</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="58" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CREMAS MAGGI ESPARRAGOS 6</dte:Descripcion>
+                        <dte:PrecioUnitario>4.60</dte:PrecioUnitario>
+                        <dte:Precio>4.60</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>4.107142857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.4928571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>4.60</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="59" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>GAMA GALLETA WAFFER PAQUETE 12 UNIDADES</dte:Descripcion>
+                        <dte:PrecioUnitario>10.25</dte:PrecioUnitario>
+                        <dte:Precio>10.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>9.151785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.098214286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>10.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="60" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>ARROZ CHINO BLANCO 1 LIBRA</dte:Descripcion>
+                        <dte:PrecioUnitario>3.25</dte:PrecioUnitario>
+                        <dte:Precio>3.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.901785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3482142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="61" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>ARROZ CHINO BLANCO 1 LIBRA</dte:Descripcion>
+                        <dte:PrecioUnitario>3.25</dte:PrecioUnitario>
+                        <dte:Precio>3.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.901785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3482142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="62" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>ARROZ CHINO BLANCO 1 LIBRA</dte:Descripcion>
+                        <dte:PrecioUnitario>3.25</dte:PrecioUnitario>
+                        <dte:Precio>3.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.901785714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3482142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="63" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LA NACIONAL FRIJOL BLANCO 400 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>8.50</dte:PrecioUnitario>
+                        <dte:Precio>8.50</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.589285714</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.9107142857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>8.50</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="64" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LA NACIONAL FRIJOL NEGRO 400 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>5.90</dte:PrecioUnitario>
+                        <dte:Precio>5.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.267857143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6321428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>5.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="65" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SASSON CONDIMENTO SAZON COMPLETO 80 GRAMOS
+                            FRASCO</dte:Descripcion>
+                        <dte:PrecioUnitario>13.90</dte:PrecioUnitario>
+                        <dte:Precio>13.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>12.41071429</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.489285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>13.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="66" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LA NACIONAL FRIJOL NEGRO 400 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>5.90</dte:PrecioUnitario>
+                        <dte:Precio>5.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.267857143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6321428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>5.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="67" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>LA NACIONAL FRIJOL ROJO 400 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>6.95</dte:PrecioUnitario>
+                        <dte:Precio>6.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>6.205357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.7446428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="68" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>SALITA SAL REFINADA LIBRA</dte:Descripcion>
+                        <dte:PrecioUnitario>1.45</dte:PrecioUnitario>
+                        <dte:Precio>1.45</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>1.294642857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.1553571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>1.45</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="69" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>TOSTADAS TORTIAMIGOS 25 UNIDADES DE MAIZ
+                            MEDIANA</dte:Descripcion>
+                        <dte:PrecioUnitario>14.90</dte:PrecioUnitario>
+                        <dte:Precio>14.90</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>13.30357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.596428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>14.90</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="70" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>BLUE SKY SERVILLETA CUADRADA 80 UNIDADES</dte:Descripcion>
+                        <dte:PrecioUnitario>3.25</dte:PrecioUnitario>
+                        <dte:Precio>3.25</dte:Precio>
+                        <dte:Descuento>0.30</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>2.633928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.3160714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>2.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="71" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>MA??ANERO HUEVO BLANCO CARTON PLASTICO</dte:Descripcion>
+                        <dte:PrecioUnitario>29.95</dte:PrecioUnitario>
+                        <dte:Precio>29.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>26.74107143</dte:MontoGravable>
+                                <dte:MontoImpuesto>3.208928571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>29.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="72" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>VANNY CREMA FACIAL CONCHA NACAR 150 GRS</dte:Descripcion>
+                        <dte:PrecioUnitario>8.25</dte:PrecioUnitario>
+                        <dte:Precio>8.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>7.366071429</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.8839285714</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>8.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="73" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>ROSA VENUS JABON D/BA??O ROSA 150 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>3.75</dte:PrecioUnitario>
+                        <dte:Precio>3.75</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>3.348214286</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.4017857143</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>3.75</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="74" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>QUITAGRASA PRIL LIMON 425 GRAMOS</dte:Descripcion>
+                        <dte:PrecioUnitario>6.95</dte:PrecioUnitario>
+                        <dte:Precio>6.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>6.205357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.7446428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="75" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>POWER WASH LAVAPLATOS TACO 425 GRAMOS
+                            +ESPONJA</dte:Descripcion>
+                        <dte:PrecioUnitario>4.95</dte:PrecioUnitario>
+                        <dte:Precio>4.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>4.419642857</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.5303571429</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>4.95</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="76" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>CAPELI SPRAY EXTRAFIRME 2 ONZAS</dte:Descripcion>
+                        <dte:PrecioUnitario>6.25</dte:PrecioUnitario>
+                        <dte:Precio>6.25</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>5.580357143</dte:MontoGravable>
+                                <dte:MontoImpuesto>0.6696428571</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>6.25</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="77" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>STAFF PAPEL HIGIENICO 1000 HOJAS 6 ROLLOS</dte:Descripcion>
+                        <dte:PrecioUnitario>26.90</dte:PrecioUnitario>
+                        <dte:Precio>26.90</dte:Precio>
+                        <dte:Descuento>4.40</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>20.08928571</dte:MontoGravable>
+                                <dte:MontoImpuesto>2.410714286</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>22.50</dte:Total>
+                    </dte:Item>
+                    <dte:Item NumeroLinea="78" BienOServicio="B">
+                        <dte:Cantidad>1</dte:Cantidad>
+                        <dte:UnidadMedida>U</dte:UnidadMedida>
+                        <dte:Descripcion>NUBE BLANCA PAPEL HIGIENICO NATURAL 1000 HOJAS 4
+                            ROLLOS</dte:Descripcion>
+                        <dte:PrecioUnitario>13.95</dte:PrecioUnitario>
+                        <dte:Precio>13.95</dte:Precio>
+                        <dte:Descuento>0.00</dte:Descuento>
+                        <dte:Impuestos>
+                            <dte:Impuesto>
+                                <dte:NombreCorto>IVA</dte:NombreCorto>
+                                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                                <dte:MontoGravable>12.45535714</dte:MontoGravable>
+                                <dte:MontoImpuesto>1.494642857</dte:MontoImpuesto>
+                            </dte:Impuesto>
+                        </dte:Impuestos>
+                        <dte:Total>13.95</dte:Total>
+                    </dte:Item>
+                </dte:Items>
+                <dte:Totales>
+                    <dte:TotalImpuestos>
+                        <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="94.59642857"/>
+                    </dte:TotalImpuestos>
+                    <dte:GranTotal>882.90</dte:GranTotal>
+                </dte:Totales>
+            </dte:DatosEmision>
+            <dte:Certificacion>
+                <dte:NITCertificador>77454820</dte:NITCertificador>
+                <dte:NombreCertificador>DIGIFACT SERVICIOS, SOCIEDAD
+                    ANONIMA</dte:NombreCertificador>
+                <dte:NumeroAutorizacion Serie="6B2A90A0" Numero="367677156"
+                    >6B2A90A0-15EA-4EE4-8D64-A149CC8F2284</dte:NumeroAutorizacion>
+                <dte:FechaHoraCertificacion>2021-04-30T19:02:31</dte:FechaHoraCertificacion>
+            </dte:Certificacion>
+        </dte:DTE>
+        <dte:Adenda>
+            <dtecomm:Informacion_COMERCIAL xsi:schemaLocation="https://www.digifact.com.gt/dtecomm"
+                xmlns:dtecomm="https://www.digifact.com.gt/dtecomm">
+                <dtecomm:InformacionAdicional Version="7.1234654163">
+                    <dtecomm:REFERENCIA_INTERNA>012008-0181-00006596-68497-1</dtecomm:REFERENCIA_INTERNA>
+                    <dtecomm:FECHA_REFERENCIA>2021-04-30T19:01:37-06:00</dtecomm:FECHA_REFERENCIA>
+                    <dtecomm:VALIDAR_REFERENCIA_INTERNA>NO_VALIDAR</dtecomm:VALIDAR_REFERENCIA_INTERNA>
+                </dtecomm:InformacionAdicional>
+            </dtecomm:Informacion_COMERCIAL>
+        </dte:Adenda>
+    </dte:SAT>
+</dte:GTDocumento>
